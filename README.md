@@ -9,4 +9,5 @@
 ## Conference Opportunities 
 
 #### Conference | Dates | Who (Audience) & What (Content) | Potential Goal for Attending | Location | Details 
-#### This | is | the | second |column | in | Table 
+--- | --- | --- | --- | --- | ---
+This | is | the | second |column | in | Table 
